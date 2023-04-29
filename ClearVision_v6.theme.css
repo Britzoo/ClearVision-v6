@@ -66,7 +66,7 @@
 
   /* MODAL BACKDROP */
   --backdrop-overlay: rgba(0, 0, 0, 0.8); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
-  --backdrop-image: var(--background-image); /* modal backdrop image (link must be HTTPS) [default: var(--background-image)] */
+  --backdrop-image: var(https://i.pinimg.com/originals/cc/a9/bb/cca9bbab00fa1a880a11fefa99616458.jpg); /* modal backdrop image (link must be HTTPS) [default: var(--background-image)] */
   --backdrop-position: var(--background-position); /* modal backdrop position [default: var(--background-position)] */
   --backdrop-size: var(--background-size); /* modal backdrop size [default: var(--background-size)] */
   --backdrop-repeat: var(--background-repeat); /* modal backdrop repeat [default: var(--background-repeat)] */
@@ -95,7 +95,7 @@
   --user-popout-overlay: rgba(0, 0, 0, 0.6); /* user popout overlay color [default: rgba(0, 0, 0, .6)] */
 
   /* USER MODAL BACKGROUND */
-  --user-modal-image: var(https://i.pinimg.com/originals/cc/a9/bb/cca9bbab00fa1a880a11fefa99616458.jpg); /* app background image (link must be HTTPS) [default: var(--background-image)] */
+  --user-modal-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(--background-image)] */
   --user-modal-position: var(--background-position); /* user modal background position [default: var(--background-position)] */
   --user-modal-size: var(--background-size); /* user modal background size [default: var(--background-size)] */
   --user-modal-repeat: var(--background-repeat); /* user modal background repeat [default: var(--background-repeat)] */
